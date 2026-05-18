@@ -1,4 +1,4 @@
-{{- define "registrar-server.config" }}
+{{- define "kamailio-core.config" }}
 #!KAMAILIO
 
 ## global Macros to set/unset modules, routes, etc
